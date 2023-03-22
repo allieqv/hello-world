@@ -1,3 +1,5 @@
 # hello-world
 first repository!
-** testing **
+
+# ABOUT ME
+** my name is allie **
